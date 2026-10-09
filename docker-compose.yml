@@ -1,0 +1,9 @@
+name: demo
+language: nodejs
+version: 1.0.0
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
